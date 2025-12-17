@@ -35,7 +35,7 @@ You must have [Node.js](https://nodejs.org/en/) (which includes npm) installed o
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/ianshulx/React-projects-for-beginners.git
+    git clone 
     ```
 
 2.  **Navigate to the project directory:**
